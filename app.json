@@ -1,7 +1,7 @@
 {
   "name": "Dropbox Webhook Example",
-  "logo": "https://whitegold.herokuapp.com/static/dropbox-logo.png",
-  "repository": "https://github.com/dropbox/whitegold",
+  "logo": "https://spookify-your-dropbox.herokuapp.com/static/dropbox-logo.png",
+  "repository": "https://github.com/dropbox/spookify",
   "website": "https://www.dropbox.com/developers/webhooks/tutorial",
   "keywords": ["dropbox", "python", "flask"],
   "success_url": "/welcome",
